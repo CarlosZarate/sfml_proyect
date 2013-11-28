@@ -99,7 +99,7 @@ int main()
         {
             sf::RectangleShape rectCaja((*it).m_Size);
             rectCaja.setOrigin((*it).m_Size.x/2, (*it).m_Size.y/2);
-            rectCaja.setFillColor(sf::Color::Red);
+            rectCaja.setFillColor(sf::Color::Green);
 
             float angle = (*it).m_pBody->GetAngle();
             b2Vec2 pos = (*it).m_pBody->GetPosition();
