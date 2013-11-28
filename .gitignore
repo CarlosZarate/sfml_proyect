@@ -1,0 +1,4 @@
+# -- SFML------
+
+bin/Release/*
+bin/Debug/*
