@@ -165,7 +165,7 @@
 1382546500 d:\workspace\c++\test\external\box2d\box2d\dynamics\joints\b2wheeljoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 source:d:\workspace\c++\sfml_proyect\main.cpp
+1385691184 source:d:\workspace\c++\sfml_proyect\main.cpp
 	<SFML/Graphics.hpp>
 	<Box2D/Box2D.h>
 
@@ -331,7 +331,7 @@
 1385619449 d:\workspace\c++\sfml_proyect\external\box2d\box2d\dynamics\joints\b2wheeljoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\box2d.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\box2d.h
 	<Box2D/Common/b2Settings.h>
 	<Box2D/Common/b2Draw.h>
 	<Box2D/Common/b2Timer.h>
@@ -361,83 +361,83 @@
 	<Box2D/Dynamics/Joints/b2WeldJoint.h>
 	<Box2D/Dynamics/Joints/b2WheelJoint.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2settings.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2settings.h
 	<stddef.h>
 	<assert.h>
 	<float.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2draw.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2draw.h
 	<Box2D/Common/b2Math.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2math.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2math.h
 	<Box2D/Common/b2Settings.h>
 	<math.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2timer.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2timer.h
 	<Box2D/Common/b2Settings.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2circleshape.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2circleshape.h
 	<Box2D/Collision/Shapes/b2Shape.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2shape.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2shape.h
 	<Box2D/Common/b2BlockAllocator.h>
 	<Box2D/Common/b2Math.h>
 	<Box2D/Collision/b2Collision.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2blockallocator.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2blockallocator.h
 	<Box2D/Common/b2Settings.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2collision.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2collision.h
 	<Box2D/Common/b2Math.h>
 	<limits.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2edgeshape.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2edgeshape.h
 	<Box2D/Collision/Shapes/b2Shape.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2chainshape.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2chainshape.h
 	<Box2D/Collision/Shapes/b2Shape.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2polygonshape.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\shapes\b2polygonshape.h
 	<Box2D/Collision/Shapes/b2Shape.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2broadphase.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2broadphase.h
 	<Box2D/Common/b2Settings.h>
 	<Box2D/Collision/b2Collision.h>
 	<Box2D/Collision/b2DynamicTree.h>
 	<algorithm>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2dynamictree.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2dynamictree.h
 	<Box2D/Collision/b2Collision.h>
 	<Box2D/Common/b2GrowableStack.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2growablestack.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2growablestack.h
 	<Box2D/Common/b2Settings.h>
 	<memory.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2distance.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2distance.h
 	<Box2D/Common/b2Math.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2timeofimpact.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\collision\b2timeofimpact.h
 	<Box2D/Common/b2Math.h>
 	<Box2D/Collision/b2Distance.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2body.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2body.h
 	<Box2D/Common/b2Math.h>
 	<Box2D/Collision/Shapes/b2Shape.h>
 	<memory>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2fixture.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2fixture.h
 	<Box2D/Dynamics/b2Body.h>
 	<Box2D/Collision/b2Collision.h>
 	<Box2D/Collision/Shapes/b2Shape.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2worldcallbacks.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2worldcallbacks.h
 	<Box2D/Common/b2Settings.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2timestep.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2timestep.h
 	<Box2D/Common/b2Math.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2world.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2world.h
 	<Box2D/Common/b2Math.h>
 	<Box2D/Common/b2BlockAllocator.h>
 	<Box2D/Common/b2StackAllocator.h>
@@ -445,51 +445,51 @@
 	<Box2D/Dynamics/b2WorldCallbacks.h>
 	<Box2D/Dynamics/b2TimeStep.h>
 
-1385676595 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2stackallocator.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\common\b2stackallocator.h
 	<Box2D/Common/b2Settings.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2contactmanager.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\b2contactmanager.h
 	<Box2D/Collision/b2BroadPhase.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\contacts\b2contact.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\contacts\b2contact.h
 	<Box2D/Common/b2Math.h>
 	<Box2D/Collision/b2Collision.h>
 	<Box2D/Collision/Shapes/b2Shape.h>
 	<Box2D/Dynamics/b2Fixture.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2distancejoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2distancejoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2joint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2joint.h
 	<Box2D/Common/b2Math.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2frictionjoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2frictionjoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2gearjoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2gearjoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2motorjoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2motorjoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2mousejoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2mousejoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2prismaticjoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2prismaticjoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2pulleyjoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2pulleyjoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2revolutejoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2revolutejoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2ropejoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2ropejoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2weldjoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2weldjoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
-1385676596 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2wheeljoint.h
+1385691184 d:\workspace\c++\sfml_proyect\box2d\include\box2d\dynamics\joints\b2wheeljoint.h
 	<Box2D/Dynamics/Joints/b2Joint.h>
 
